@@ -40,7 +40,7 @@ internal class Program
         Stopwatch stopWatch = new Stopwatch();
 
         // Set the desired position within a fibonacci sequence
-        int position = <N>;
+        int position = 40;
 
         // Capture length of runtime for recursive execution
         stopWatch.Start();
@@ -70,6 +70,6 @@ internal class Program
         // Output simple report with the position, sequence result, and time for each method
         Console.WriteLine($"Fibonacci sequence to position {position}");
         Console.WriteLine($"- Recusive result: {fibRecursive}\t\t\tTook {recursiveElapsedTime}");
-        Console.WriteLine($"- Dynamic Programming result: {fibDp}\tTook {dpElapsedTime}");
+        Console.WriteLine($"- Dynamic Programming result: {fibDp}\t\tTook {dpElapsedTime}");
     }
 }
