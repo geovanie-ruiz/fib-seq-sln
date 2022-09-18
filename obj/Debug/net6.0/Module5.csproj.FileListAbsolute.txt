@@ -1,0 +1,15 @@
+/Users/geo/Library/CloudStorage/OneDrive-Personal/School/6 Fall 2022/Software Development I/Module5/bin/Debug/net6.0/Module5
+/Users/geo/Library/CloudStorage/OneDrive-Personal/School/6 Fall 2022/Software Development I/Module5/bin/Debug/net6.0/Module5.deps.json
+/Users/geo/Library/CloudStorage/OneDrive-Personal/School/6 Fall 2022/Software Development I/Module5/bin/Debug/net6.0/Module5.runtimeconfig.json
+/Users/geo/Library/CloudStorage/OneDrive-Personal/School/6 Fall 2022/Software Development I/Module5/bin/Debug/net6.0/Module5.dll
+/Users/geo/Library/CloudStorage/OneDrive-Personal/School/6 Fall 2022/Software Development I/Module5/bin/Debug/net6.0/Module5.pdb
+/Users/geo/Library/CloudStorage/OneDrive-Personal/School/6 Fall 2022/Software Development I/Module5/obj/Debug/net6.0/Module5.csproj.AssemblyReference.cache
+/Users/geo/Library/CloudStorage/OneDrive-Personal/School/6 Fall 2022/Software Development I/Module5/obj/Debug/net6.0/Module5.GeneratedMSBuildEditorConfig.editorconfig
+/Users/geo/Library/CloudStorage/OneDrive-Personal/School/6 Fall 2022/Software Development I/Module5/obj/Debug/net6.0/Module5.AssemblyInfoInputs.cache
+/Users/geo/Library/CloudStorage/OneDrive-Personal/School/6 Fall 2022/Software Development I/Module5/obj/Debug/net6.0/Module5.AssemblyInfo.cs
+/Users/geo/Library/CloudStorage/OneDrive-Personal/School/6 Fall 2022/Software Development I/Module5/obj/Debug/net6.0/Module5.csproj.CoreCompileInputs.cache
+/Users/geo/Library/CloudStorage/OneDrive-Personal/School/6 Fall 2022/Software Development I/Module5/obj/Debug/net6.0/Module5.dll
+/Users/geo/Library/CloudStorage/OneDrive-Personal/School/6 Fall 2022/Software Development I/Module5/obj/Debug/net6.0/refint/Module5.dll
+/Users/geo/Library/CloudStorage/OneDrive-Personal/School/6 Fall 2022/Software Development I/Module5/obj/Debug/net6.0/Module5.pdb
+/Users/geo/Library/CloudStorage/OneDrive-Personal/School/6 Fall 2022/Software Development I/Module5/obj/Debug/net6.0/Module5.genruntimeconfig.cache
+/Users/geo/Library/CloudStorage/OneDrive-Personal/School/6 Fall 2022/Software Development I/Module5/obj/Debug/net6.0/ref/Module5.dll
